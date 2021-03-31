@@ -1,0 +1,1 @@
+web: gunicorn easycharge.wsgi --log-file -
